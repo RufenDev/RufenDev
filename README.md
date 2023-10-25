@@ -17,6 +17,8 @@ Y siempre dispuesto aprender más... 👨‍💻
 
 ## Encuentrame en
 
+[![LinkedIn](https://img.shields.io/badge/rufendev-1474ce?style=for-the-badge&logo=linkedin&labelColor=101010)](www.linkedin.com/in/rufen-dev) ![Discord](https://img.shields.io/badge/@rufendev-5c6aed?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)
+
 <!--
 ![banner ing](https://github.com/RufenDev/RufenDev/assets/147002806/72b05581-11e1-427e-af08-88fe9225570a)
 **RufenDev/RufenDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
