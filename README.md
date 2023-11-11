@@ -15,7 +15,7 @@ Actualmente me encuentro aprendiendo las báses del desarrollo de aplicaciones m
 
 Y siempre dispuesto aprender más... 👨‍💻
 
-## Encuentrame en
+## Encuentrame en...
 
 [![LinkedIn](https://img.shields.io/badge/rufendev-1474ce?style=for-the-badge&logo=linkedin&labelColor=101010)](https://www.linkedin.com/in/rufen-dev) ![Discord](https://img.shields.io/badge/@rufendev-5c6aed?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)
 
