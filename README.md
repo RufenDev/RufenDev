@@ -7,13 +7,13 @@ Soy ingeniero en informática apasionado por la programación y el desarrollo de
 Actualmente me encuentro aprendiendo las báses del desarrollo de aplicaciones móviles en Android con Kotlin, utilizando MVVM como patrón de arquitectura, ROOM y Firebase para la base de datos, inyección de dependencias con Dagger Hilt, manejo de Testing y consumo de APIs con Retrofit2.
 
 ## Tecnologías
-![Kotlin](https://img.shields.io/badge/Kotlin-8947FA?style=for-the-badge&logo=kotlin&labelColor=101010) ![Android](https://img.shields.io/badge/Android-08e083?style=for-the-badge&logo=android&labelColor=101010) ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&labelColor=101010)  
+![Kotlin](https://img.shields.io/badge/Kotlin-8947FA?style=for-the-badge&logo=kotlin&labelColor=101010) ![Android](https://img.shields.io/badge/Android-34a853?style=for-the-badge&logo=android&labelColor=101010) ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=for-the-badge&logo=firebase&labelColor=101010) ![Java](https://img.shields.io/badge/Java_with_Gradle-34bbc5?style=for-the-badge&logo=gradle&labelColor=101010) 
 
-![Java](https://img.shields.io/badge/Java_with_Gradle-34bbc5?style=for-the-badge&logo=gradle&labelColor=101010) ![Spring](https://img.shields.io/badge/Spring_Boot-6db33f?style=for-the-badge&logo=springboot&labelColor=101010) ![MySQL](https://img.shields.io/badge/MySQL-f59923?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)
+![JavaScript](https://img.shields.io/badge/JavaScript-f0dc55?style=for-the-badge&logo=javascript&labelColor=101010) ![React](https://img.shields.io/badge/React-00d8fe?style=for-the-badge&logo=react&labelColor=101010) ![ReactQuery](https://img.shields.io/badge/React_Query-ff4154?style=for-the-badge&logo=reactquery&labelColor=101010) ![NextJs](https://img.shields.io/badge/Next.Js-282828?style=for-the-badge&logo=next.js&labelColor=101010) ![NodeJs](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=node.js&labelColor=101010)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-f0dc55?style=for-the-badge&logo=javascript&labelColor=101010) ![React](https://img.shields.io/badge/React_&_React_Native-00d8fe?style=for-the-badge&logo=react&labelColor=101010) ![NodeJs](https://img.shields.io/badge/Node.Js-339933?style=for-the-badge&logo=node.js&labelColor=101010)
+![MySQL](https://img.shields.io/badge/MySQL-f59923?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010) ![PHP](https://img.shields.io/badge/PHP-787cb3?style=for-the-badge&logo=php&labelColor=101010) ![HTML](https://img.shields.io/badge/HTML-e44d26?style=for-the-badge&logo=html5&labelColor=101010) ![CSS](https://img.shields.io/badge/CSS-2daadd?style=for-the-badge&logo=css3&logoColor=2daadd&labelColor=101010)  
 
-![HTML](https://img.shields.io/badge/HTML5-e44d26?style=for-the-badge&logo=html5&labelColor=101010) ![CSS](https://img.shields.io/badge/CSS3-2daadd?style=for-the-badge&logo=css3&logoColor=2daadd&labelColor=101010) ![PHP](https://img.shields.io/badge/PHP-787cb3?style=for-the-badge&logo=php&labelColor=101010) 
+
 
 Y siempre dispuesto aprender más... 👨‍💻
 
